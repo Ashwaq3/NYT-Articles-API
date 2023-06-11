@@ -1,0 +1,62 @@
+{
+  "uri": "nyt://article/d0ab3ff0-e54a-54de-a8fa-871505faf3af",
+  "url": "https://www.nytimes.com/2023/06/08/nyregion/feral-cats-nyc.html",
+  "id": 100000008938837,
+  "asset_id": 100000008938837,
+  "source": "New York Times",
+  "published_date": "2023-06-08",
+  "updated": "2023-06-09 00:13:40",
+  "section": "New York",
+  "subsection": "",
+  "nytdsection": "new york",
+  "adx_keywords": "Cats;Pets;Animal Abuse, Rights and Welfare;Volunteers and Community Service;Flatbush Cats;Flatbush (Brooklyn, NY);New York City",
+  "column": null,
+  "byline": "By Richard Schiffman and Erin Schaff",
+  "type": "Article",
+  "title": "How to Clear 500,000 Feral Cats From New York’s Streets",
+  "abstract": "After the pandemic boom in pet adoption gave way to pet abandonment, locals in Brooklyn are trying a controversial approach to population control.",
+  "des_facet": [
+    "Cats",
+    "Pets",
+    "Animal Abuse, Rights and Welfare",
+    "Volunteers and Community Service"
+  ],
+  "org_facet": [
+    "Flatbush Cats"
+  ],
+  "per_facet": [],
+  "geo_facet": [
+    "Flatbush (Brooklyn, NY)",
+    "New York City"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "subtype": "photo",
+      "caption": "",
+      "copyright": "",
+      "approved_for_syndication": 1,
+      "media-metadata": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/09/multimedia/00ny-feral-cats-steps-fpwm/00ny-feral-cats-steps-fpwm-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/09/multimedia/00ny-feral-cats-steps-fpwm/00ny-feral-cats-steps-fpwm-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/09/multimedia/00ny-feral-cats-steps-fpwm/00ny-feral-cats-steps-fpwm-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440
+        }
+      ]
+    }
+  ],
+  "eta_id": 0
+}
